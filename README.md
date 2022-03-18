@@ -1,4 +1,4 @@
-![](Bipin Chandra R.jpg)| BIPIN CHANDRA RAYILLA - TORONTO, ON, CANADA - +1 (437) 580-8296 - BIPINCHANDRARAYILLA29@GMAIL.COM |[LinkedIn Profile](https://www.linkedin.com/in/bipinchandrarayilla/) - [Articles on Medium](https://medium.com/@bipinchandra_rayilla) - [GitHub](https://github.com/BipinChandra-Rayilla)
+![](Bipin Chandra R.jpg)| Bipin Chandra Rayilla - Toronto, ON, Canada - +1 (437) 580-8296 - bipinchandrarayilla29@gmail.com |[LinkedIn Profile](https://www.linkedin.com/in/bipinchandrarayilla/) - [Articles](https://medium.com/@bipinchandra_rayilla) - [GitHub](https://github.com/BipinChandra-Rayilla)
 
 ---
 
@@ -30,9 +30,6 @@ BASF | Coles | Ford Motor Company | 2000+ Suppliers across Ford | Motorola Mobil
 
 ---
 
-## [Roles & Responsiblities Performed](https://github.com/BipinChandra-Rayilla/Professional-Projects)
-
----
 
 ## [Business Administration - York University](https://continue.yorku.ca/programs/post-graduate-certificate-in-business-administration/)
 It has always been a dream to study in an international university and get a degree. The learning outcomes, key insights, connections made, blogs written, and projects worked have been a huge value add to me. Have a glimpse of it - [here](https://github.com/BipinChandra-Rayilla/business-administration/blob/main/README.md)
@@ -43,13 +40,13 @@ Besides Project Management Domain; Data & Business Analysis were my passionate a
 ---
 
 ## Skills
-1. Data Analytics | Digital Data Analytics
-2. Python | Tableau | Power BI | Jupyter (Pandas, Numpy, Matplotlib, Seaborn, Scrapy and BeautifulSoup)
-3. Agile Methodologies | Project Management | Business Strategy
-4. Increased Cross-Functional Teams Productivity | People Leader
+1. Data Analytics, Digital Data Analytics
+2. Python, Tableau, Power BI, Jupyter (Pandas, Numpy, Matplotlib, Seaborn, Scrapy and BeautifulSoup)
+3. Agile Methodologies, Project Management, Business Strategy
+4. Increased Cross-Functional Teams Productivity, People Leader
 
 ---
-
+# Projects Created & Contributed
 ## Data Analysis & Visualizations
 1. Descriptive Analysis and Statistic - [source code](https://github.com/BipinChandra-Rayilla/Descriptive-Analysis-Statistics)
 ### The health care and government departments can look into the below data and consider the importance to provide necessities by prioritising based on volume.
@@ -88,9 +85,15 @@ Besides Project Management Domain; Data & Business Analysis were my passionate a
 
 ![](Logical Regression & Discriminant Analysis.JPG)
 
-5. Demonstrating an eCommerce Project's Work Break Down Structure & Business Process Model
-- ![Swimlanes](DATA_2203_Assignment#1_ Assessing Strategic Value_Rayilla_100851648.pdf)
+5. Demonstrating an eCommerce Project
+### Work Break Down Structure & Business Process Model
+- [Swimlanes](DATA_2203_Assignment#1_ Assessing Strategic Value_Rayilla_100851648.pdf)
 - [Mindmaps](https://mm.tt/1979863919?t=S7tq4RzW9n)
+
+---
+
+## Summary of Roles & Responsiblities Performed - Professional Career
+[Click here](https://github.com/BipinChandra-Rayilla/Professional-Projects)
 
 ---
 ### Awards & Certifications
