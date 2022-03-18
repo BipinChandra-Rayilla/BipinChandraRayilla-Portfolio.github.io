@@ -46,7 +46,7 @@ Besides Project Management Domain; Data & Business Analysis were my passionate a
 4. Increased Cross-Functional Teams Productivity, People Leader
 
 ---
-# Projects Created & Contributed
+# Projects Created, Contributed & Value Add
 ## Data Analysis & Visualizations
 1. Descriptive Analysis and Statistic - [source code](https://github.com/BipinChandra-Rayilla/Descriptive-Analysis-Statistics)
 ### The health care and government departments can look into the below data and consider the importance to provide necessities by prioritising based on volume.
