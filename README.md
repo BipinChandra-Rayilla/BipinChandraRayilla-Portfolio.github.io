@@ -1,16 +1,16 @@
+![](Bipin Chandra R.jpg)
+![](256px-Linkedin_icon.svg.png)
+Connect with me: [Bipin Chandra Rayilla](https://www.linkedin.com/in/bipinchandrarayilla/)
+Articles [@medium](https://medium.com/@bipinchandra_rayilla)
+
 # My Journey Towards 'Digital Data Analytics Project Manager'
 
 ## About Me
-Focused towards leading projects with multiple teams, services, processes and tools, which are on strict timelines that adhere to brand values. I believe in having a desire to learn from each step and opportunity which can help me acquire knowledge to the real world experiences and leadership.
-
-I see a purpose and value in serving, coaching, mentoring and leading teams.
-
-B2B EDI Integration, Middleware and Project Management are my professional areas with 7.8 years of IT experience. 
-I am Competent in EDI, SAP Sales & Distribution - Intermediate level, an Agile Practitioner, and a Scrum Master & PMO - Qyrus (SaaS & AI platform).
-
-I have been pursuing Business Administartion & Data Analytics post graduation degrees and based on my earlier experience. I will be levelling up my career towards the title of this page in the upcoming days.
-
-Besides professional summary - I am violinst, vocalist, strength & conditioing enthusiast, and idiolize Batman. I love capturing startrails, photography, writing and motorcycle travelling (2500 kms is the longest stretch I have covered so far)
+Focused towards leading projects with multiple teams, services, processes and tools, which are on strict timelines that adhere to brand values. I believe in having a desire to learn from each step and opportunity which can help me acquire knowledge to the real world experiences and leadership. I see a purpose and value in serving, coaching, mentoring and leading teams.
+- B2B EDI Integration, Middleware and Project Management are my professional areas with 7.8 years of IT experience. 
+- Competent in EDI, SAP Sales & Distribution - Intermediate level, an Agile Practitioner, and a Scrum Master & PMO - Qyrus (SaaS & AI platform).
+- I have been pursuing Business Administartion & Data Analytics post graduation degrees and based on my earlier experience. I will be levelling up my career towards the title of this page in the upcoming days.
+- Besides professional summary - I am violinst, vocalist, strength & conditioing enthusiast, and idiolize Batman. I love capturing startrails, photography, writing and motorcycle travelling (2500 kms is the longest stretch I have covered so far)
 
 ---
 
@@ -38,8 +38,6 @@ Besides Project Management Domain; Data & Business Analysis were my passionate a
 ### Top Visualizations
 1. [Descriptive Analysis and Statistic](https://github.com/BipinChandra-Rayilla/Descriptive-Analysis-Statistics)
 ![](Image.jpg)
-![](/Image.jpg)
-![](https://github.com/BipinChandra-Rayilla/My-Portfolio.github.io/blob/main/Image.jpg)
 
 2. 
 
