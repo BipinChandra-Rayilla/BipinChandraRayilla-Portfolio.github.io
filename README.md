@@ -59,12 +59,10 @@ Besides Project Management Domain; Data & Business Analysis were my passionate a
 3. Battery Electric Vehicles Rating (2012-2021) - [source code](https://github.com/BipinChandra-Rayilla/Battery-Electric-Vehicles-Rating)
 ## Analysis 
 ### This will help business to analyse on the performance of vehciles and also forecast how electric vehicles can be revolutionary in future.
-- All the vehicles listed here are electric/battery based
+- All the vehicles listed here are electric/battery based. (2012-2021)
 - These chart determines the make, model and yearly surge of launching the vehicles.
-- Year range is between 2012-2021
 - Each vehicle has a different performance when it drove in a city and when it is on a highway
-- Motor power range comparision is similar
-- This dataset indicates all the vehicles are emitting 0% carbon dioxide, since each vehicle model fuel by electric/battery
+- - This dataset indicates all the vehicles are emitting 0% carbon dioxide, since each vehicle model fuel by electric/battery
 - Running a performance check based on number of kms – if the vehicle is ranging between 0-250 kms then its indicated as Good and the ones above 250-500 are Top Range
 ![](Vehicle Emission.jpg)
 
@@ -81,7 +79,6 @@ Besides Project Management Domain; Data & Business Analysis were my passionate a
 - As per EDA using Pandas Profile Report it was clear that the class was imbalanced and before modeling LDA balancing the data sample was required using SMOTE.
 - AUC (Area Under Curve) is 0.97 ~ (approx. 1)
 - The trade-off between sensitivity i.e., True Positive Rate and False Positivity Rate is quite perfect.
-- If the results were unusual, then recommendations would be required. But in this case, Mr.John do not need any to identify the effectiveness of cancer dataset.
 
 ![](Logical Regression & Discriminant Analysis.JPG)
 
@@ -90,6 +87,9 @@ Besides Project Management Domain; Data & Business Analysis were my passionate a
 - [Swimlanes](https://github.com/BipinChandra-Rayilla/BipinChandraRayilla-Portfolio.github.io/blob/441ca99361eca4fdc669fd8fa681724531fac977/DATA_2203_Assignment%231_%20Assessing%20Strategic%20Value_Rayilla_100851648.pdf)
 - [Mindmaps](https://mm.tt/1979863919?t=S7tq4RzW9n)
 
+6. Sprint Cycle & Release Trains
+### Designed 3 weeks sprint cycle and release train which perfectly works for the Qyrus team. (part of the previous project)
+![](3 Week Sprint Cycle.jpg)
 ---
 
 ## Roles & Responsiblities Performed - Professional Career
