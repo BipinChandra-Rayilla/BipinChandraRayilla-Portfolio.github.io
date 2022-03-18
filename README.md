@@ -87,12 +87,12 @@ Besides Project Management Domain; Data & Business Analysis were my passionate a
 
 5. Demonstrating an eCommerce Project
 ### Work Break Down Structure & Business Process Model
-- [Swimlanes](DATA_2203_Assignment#1_ Assessing Strategic Value_Rayilla_100851648.pdf)
+- [Swimlanes](https://github.com/BipinChandra-Rayilla/BipinChandraRayilla-Portfolio.github.io/blob/441ca99361eca4fdc669fd8fa681724531fac977/DATA_2203_Assignment%231_%20Assessing%20Strategic%20Value_Rayilla_100851648.pdf)
 - [Mindmaps](https://mm.tt/1979863919?t=S7tq4RzW9n)
 
 ---
 
-## Summary of Roles & Responsiblities Performed - Professional Career
+## Roles & Responsiblities Performed - Professional Career
 [Click here](https://github.com/BipinChandra-Rayilla/Professional-Projects)
 
 ---
