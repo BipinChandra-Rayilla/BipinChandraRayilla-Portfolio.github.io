@@ -37,8 +37,9 @@ Besides Project Management Domain; Data & Business Analysis were my passionate a
 
 ### Top Visualizations
 1. [Descriptive Analysis and Statistic](https://github.com/BipinChandra-Rayilla/Descriptive-Analysis-Statistics)
-![](/Descriptive-Analysis-Statistics/blob/main/Image.jpg)
-![](https://github.com/BipinChandra-Rayilla/Descriptive-Analysis-Statistics/blob/main/Image.jpg)
+![](Image.jpg)
+![](/Image.jpg)
+![](https://github.com/BipinChandra-Rayilla/My-Portfolio.github.io/blob/main/Image.jpg)
 
 2. 
 
