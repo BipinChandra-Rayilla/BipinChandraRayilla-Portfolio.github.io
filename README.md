@@ -23,8 +23,7 @@ Besides professional summary - I am violinst, vocalist, strength & conditioing e
 - PMO & Scrum Master (2019)
 - Agile PMO (2021)
 
-## [Roles & Responsiblities Performed]
-(https://github.com/BipinChandra-Rayilla/Professional-Projects)
+## [Roles & Responsiblities Performed](https://github.com/BipinChandra-Rayilla/Professional-Projects)
 
 ---
 
@@ -39,6 +38,7 @@ Besides Project Management Domain; Data & Business Analysis were my passionate a
 ### Top Visualizations
 1. [Descriptive Analysis and Statistic](https://github.com/BipinChandra-Rayilla/Descriptive-Analysis-Statistics)
 ![](/Descriptive-Analysis-Statistics/blob/main/Image.jpg)
+![](https://github.com/BipinChandra-Rayilla/Descriptive-Analysis-Statistics/blob/main/Image.jpg)
 
 2. 
 
