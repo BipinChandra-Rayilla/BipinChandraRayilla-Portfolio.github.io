@@ -1,7 +1,7 @@
-![](Bipin Chandra R.jpg)
-![](256px-Linkedin_icon.svg.png)
-Connect with me: [Bipin Chandra Rayilla](https://www.linkedin.com/in/bipinchandrarayilla/)
+![](Bipin Chandra R.jpg) | ![](256px-Linkedin_icon.svg.png) Connect with me: [Bipin Chandra Rayilla](https://www.linkedin.com/in/bipinchandrarayilla/)
 Articles [@medium](https://medium.com/@bipinchandra_rayilla)
+
+---
 
 # My Journey Towards 'Digital Data Analytics Project Manager'
 
