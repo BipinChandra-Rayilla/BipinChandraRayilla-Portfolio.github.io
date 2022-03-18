@@ -1,4 +1,4 @@
-![](Bipin Chandra R.jpg) LinkedIn: [Bipin Chandra Rayilla](https://www.linkedin.com/in/bipinchandrarayilla/) | Articles on [@medium.com](https://medium.com/@bipinchandra_rayilla)
+![](Bipin Chandra R.jpg)| BIPIN CHANDRA RAYILLA - TORONTO, ON, CANADA - +1 (437) 580-8296 - BIPINCHANDRARAYILLA29@GMAIL.COM |[LinkedIn Profile](https://www.linkedin.com/in/bipinchandrarayilla/) - [Articles on Medium](https://medium.com/@bipinchandra_rayilla) - [GitHub](https://github.com/BipinChandra-Rayilla)
 
 ---
 
@@ -42,23 +42,64 @@ Besides Project Management Domain; Data & Business Analysis were my passionate a
 
 ---
 
-### Data Analysis & Visualizations
+## Skills
+1. Data Analytics | Digital Data Analytics
+2. Python | Tableau | Power BI | Jupyter (Pandas, Numpy, Matplotlib, Seaborn, Scrapy and BeautifulSoup)
+3. Agile Methodologies | Project Management | Business Strategy
+4. Increased Cross-Functional Teams Productivity | People Leader
+
+---
+
+## Data Analysis & Visualizations
 1. Descriptive Analysis and Statistic - [source code](https://github.com/BipinChandra-Rayilla/Descriptive-Analysis-Statistics)
+### The health care and government departments can look into the below data and consider the importance to provide necessities by prioritising based on volume.
 ![](Homeless Population.jpg)
 
-2. COVID-19 Vaccination Progress - This visualization focuses on AstraZeneca and further details on how major countries can improvies. [dataset](https://github.com/BipinChandra-Rayilla/Data-Visualization-Covid-19-/edit/main/README.md)
+2. COVID-19 Vaccination Progress
+### This visualization focuses on AstraZeneca and further details on how major countries can improvies. [dataset](https://github.com/BipinChandra-Rayilla/Data-Visualization-Covid-19-/edit/main/README.md)
 ![](Covid Data.JPG)
 
-3. 
+3. Battery Electric Vehicles Rating (2012-2021) - [source code](https://github.com/BipinChandra-Rayilla/Battery-Electric-Vehicles-Rating)
+## Analysis 
+### This will help business to analyse on the performance of vehciles and also forecast how electric vehicles can be revolutionary in future.
+- All the vehicles listed here are electric/battery based
+- These chart determines the make, model and yearly surge of launching the vehicles.
+- Year range is between 2012-2021
+- Each vehicle has a different performance when it drove in a city and when it is on a highway
+- Motor power range comparision is similar
+- This dataset indicates all the vehicles are emitting 0% carbon dioxide, since each vehicle model fuel by electric/battery
+- Running a performance check based on number of kms – if the vehicle is ranging between 0-250 kms then its indicated as Good and the ones above 250-500 are Top Range
+![](Vehicle Emission.jpg)
+
+4. Cancer Data (Python) - [source code](https://github.com/BipinChandra-Rayilla/CancerData-Modelling)
+## Identifications Reported: Both LR and LDA reports were matching.
+### Logical Regression
+- Based on the dataset it is clear that it’s a binomial classification where the response variable is dichotomous (1 or 0).
+- The recall range is above 90% range which indicates a good learning curve.
+- Class split is clearly identifying the imbalance, which is also observed in support values for each category.
+- AUC (Area Under Curve) is 0.98 ~ (approx. 1)
+- The trade-off between sensitivity i.e., True Positive Rate and False Positivity Rate is quite perfect.
+
+### Discriminant Analysis
+- As per EDA using Pandas Profile Report it was clear that the class was imbalanced and before modeling LDA balancing the data sample was required using SMOTE.
+- AUC (Area Under Curve) is 0.97 ~ (approx. 1)
+- The trade-off between sensitivity i.e., True Positive Rate and False Positivity Rate is quite perfect.
+- If the results were unusual, then recommendations would be required. But in this case, Mr.John do not need any to identify the effectiveness of cancer dataset.
+
+![](Logical Regression & Discriminant Analysis.JPG)
+
+5. Demonstrating an eCommerce Project's Work Break Down Structure & Business Process Model
+- ![Swimlanes](DATA_2203_Assignment#1_ Assessing Strategic Value_Rayilla_100851648.pdf)
+- [Mindmaps](https://mm.tt/1979863919?t=S7tq4RzW9n)
 
 ---
 ### Awards & Certifications
 
-1.  “Pat on Back” & “Best Team” Awards from FORD Motor Company.
-2.  [Certified Scrum Master](https://bcert.me/bc/html/show-badge.html?b=fwnjxinz)
-3.  [Verified International Academic Qualifications](https://www.credly.com/badges/9c3e4ce6-8026-45a8-ad21-9229affc5f1f?source=linked_in_profile)
-4.  State award for designing a low cost Telescope & Planetarium.
-5.  Excellence in carnatic violin & vocal performances.
+1.  “Pat on Back” & “Best Team” Awards from FORD Motor Company and Tech Mahindra
+2.  [Certified Scrum Master](https://bcert.me/bc/html/show-badge.html?b=fwnjxinz) from ScrumAlliance
+3.  [Verified International Academic Qualifications](https://www.credly.com/badges/9c3e4ce6-8026-45a8-ad21-9229affc5f1f?source=linked_in_profile) from World Education Services
+4.  State award for designing a low cost Telescope & Planetarium, Andhra Pradesh, India
+5.  Excellence in carnatic violin and vocal performances.
 
 # 5W1H - For the the Organizations
 ### Articles & Publications (these will help answer the information gathering or problem solving areas)
@@ -74,12 +115,12 @@ Besides Project Management Domain; Data & Business Analysis were my passionate a
 
 ## Professional Contributions - 
 
-### **[Tech Mahindra, Hyderabad, India](https://www.techmahindra.com/en-in/?f=3288545283) - Software Engineer**
+### [Tech Mahindra, Hyderabad, India](https://www.techmahindra.com/en-in/?f=3288545283) - Software Engineer
 1.	EDI Consultant (BASF - The Chemical Company)
 2.	B2B EDI Developer (Coles)
 3.	B2B Application Developer, PMO & Module Lead (Ford Motor Company)
 
-### **[Quinnox Consultancy Services, Bangalore, India](https://www.quinnox.com/) - Senior Consultant**
+### [Quinnox Consultancy Services, Bangalore, India](https://www.quinnox.com/) - Senior Consultant
 1.	B2B Integration Consultant (Motorola Mobility)
 2.	PMO & ABM Specialist (On site & Offshore)
 3.	Agile PMO, Scrum Master for [Qyrus](https://www.qyrus.com/) (SaaS & AI platform)
