@@ -1,4 +1,4 @@
-![](Bipin Chandra R.jpg)| Bipin Chandra Rayilla - Toronto, ON, Canada - +1 (437) 580-8296 - bipinchandrarayilla29@gmail.com |[LinkedIn Profile](https://www.linkedin.com/in/bipinchandrarayilla/) - [Articles](https://medium.com/@bipinchandra_rayilla) - [GitHub](https://github.com/BipinChandra-Rayilla)
+![](Bipin Chandra R.jpg)| Bipin Chandra Rayilla - Toronto, ON, Canada |[LinkedIn Profile](https://www.linkedin.com/in/bipinchandrarayilla/) - [Articles](https://medium.com/@bipinchandra_rayilla) - [GitHub](https://github.com/BipinChandra-Rayilla)
 
 ---
 
