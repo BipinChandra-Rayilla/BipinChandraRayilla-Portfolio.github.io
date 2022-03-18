@@ -35,7 +35,7 @@ BASF | Coles | Ford Motor Company | 2000+ Suppliers across Ford | Motorola Mobil
 It has always been a dream to study in an international university and get a degree. The learning outcomes, key insights, connections made, blogs written, and projects worked have been a huge value add to me. Have a glimpse of it - [here](https://github.com/BipinChandra-Rayilla/business-administration/blob/main/README.md)
 
 ## [Data Analytics (business decision making) - Durham College](https://durhamcollege.ca/programs/data-analytics-for-business-decision-making-graduate-certificate)
-Besides Project Management Domain; Data & Business Analysis were my passionate areas and that is the main reason for working towards them through this program. In the last 6 months I have gained insights towards various topics, different knowledge areas, diverse interactions, debate, articles, and many more. Here is a [glance](https://github.com/BipinChandra-Rayilla/Data-Analytics/blob/main/README.md)  
+Besides Project Management Domain; Data & Business Analysis were my passionate areas and that is the main reason for working towards them through this program. In the last 6 months I have gained insights towards various topics, different knowledge areas, diverse interactions, debates, articles, and many more. Here is a [glance](https://github.com/BipinChandra-Rayilla/Data-Analytics/blob/main/README.md)  
 
 ---
 
@@ -48,16 +48,16 @@ Besides Project Management Domain; Data & Business Analysis were my passionate a
 ---
 # Projects Created, Contributed & Value Add
 ## Data Analysis & Visualizations
-1. Descriptive Analysis and Statistic - [source code](https://github.com/BipinChandra-Rayilla/Descriptive-Analysis-Statistics)
+### 1. Descriptive Analysis and Statistic - [source code](https://github.com/BipinChandra-Rayilla/Descriptive-Analysis-Statistics)
 ### The health care and government departments can look into the below data and consider the importance to provide necessities by prioritising based on volume.
 ![](Homeless Population.jpg)
 
-2. COVID-19 Vaccination Progress
+## 2. COVID-19 Vaccination Progress
 ### This visualization focuses on AstraZeneca and further details on how major countries can improvies. [dataset](https://github.com/BipinChandra-Rayilla/Data-Visualization-Covid-19-/edit/main/README.md)
 ![](Covid Data.JPG)
 
-3. Battery Electric Vehicles Rating (2012-2021) - [source code](https://github.com/BipinChandra-Rayilla/Battery-Electric-Vehicles-Rating)
-## Analysis 
+## 3. Battery Electric Vehicles Rating (2012-2021) - [source code](https://github.com/BipinChandra-Rayilla/Battery-Electric-Vehicles-Rating)
+### Analysis 
 ### This will help business to analyse on the performance of vehciles and also forecast how electric vehicles can be revolutionary in future.
 - All the vehicles listed here are electric/battery based. (2012-2021)
 - These chart determines the make, model and yearly surge of launching the vehicles.
@@ -66,8 +66,8 @@ Besides Project Management Domain; Data & Business Analysis were my passionate a
 - Running a performance check based on number of kms – if the vehicle is ranging between 0-250 kms then its indicated as Good and the ones above 250-500 are Top Range
 ![](Vehicle Emission.jpg)
 
-4. Cancer Data (Python) - [source code](https://github.com/BipinChandra-Rayilla/CancerData-Modelling)
-## Identifications Reported: Both LR and LDA reports were matching.
+## 4. Cancer Data (Python) - [source code](https://github.com/BipinChandra-Rayilla/CancerData-Modelling)
+### Identifications Reported: Both LR and LDA reports were matching.
 ### Logical Regression
 - Based on the dataset it is clear that it’s a binomial classification where the response variable is dichotomous (1 or 0).
 - The recall range is above 90% range which indicates a good learning curve.
@@ -82,12 +82,12 @@ Besides Project Management Domain; Data & Business Analysis were my passionate a
 
 ![](Logical Regression & Discriminant Analysis.JPG)
 
-5. Demonstrating an eCommerce Project
+## 5. Demonstrating an eCommerce Project
 ### Work Break Down Structure & Business Process Model
 - [Swimlanes](https://github.com/BipinChandra-Rayilla/BipinChandraRayilla-Portfolio.github.io/blob/441ca99361eca4fdc669fd8fa681724531fac977/DATA_2203_Assignment%231_%20Assessing%20Strategic%20Value_Rayilla_100851648.pdf)
 - [Mindmaps](https://mm.tt/1979863919?t=S7tq4RzW9n)
 
-6. Sprint Cycle & Release Trains
+## 6. Sprint Cycle & Release Trains
 ### Designed 3 weeks sprint cycle and release train which perfectly works for the Qyrus team. (part of the previous project)
 ![](3 Week Sprint Cycle.jpg)
 ---
