@@ -1,8 +1,6 @@
-![](Bipin Chandra R.jpg) Connect on LinkedIn: [Bipin Chandra Rayilla](https://www.linkedin.com/in/bipinchandrarayilla/) and Articles on [@medium.com](https://medium.com/@bipinchandra_rayilla)
+![](Bipin Chandra R.jpg) LinkedIn: [Bipin Chandra Rayilla](https://www.linkedin.com/in/bipinchandrarayilla/) | Articles on [@medium.com](https://medium.com/@bipinchandra_rayilla)
 
 ---
-
-# My Journey Towards 'Digital Data Analytics Project Manager'
 
 ## About Me
 Focused towards leading projects with multiple teams, services, processes and tools, which are on strict timelines that adhere to brand values. I believe in having a desire to learn from each step and opportunity which can help me acquire knowledge to the real world experiences and leadership. I see a purpose and value in serving, coaching, mentoring and leading teams.
@@ -14,13 +12,23 @@ Focused towards leading projects with multiple teams, services, processes and to
 ---
 
 ## Career Timeline
-- Software Trainee (2013)
-- EDI Analyst (2014)
-- B2B EDI Developer (2015)
-- B2B Application Developer & Module Lead (2016)
-- Senior EDI Consultant (2018)
-- PMO & Scrum Master (2019)
 - Agile PMO (2021)
+- PMO & Scrum Master (2019)
+- Senior EDI Consultant (2018)
+- B2B Application Developer & Module Lead (2016)
+- B2B EDI Developer (2015)
+- EDI Analyst (2014)
+- Software Trainee (2013)
+
+---
+
+## Stakeholders & Interactions
+
+ - Domain experties across Healthcare, Retail, Automobile & Manufacturing, Telecommunication, Banking, SaaS Product Development & B2B Technologies
+
+BASF | Coles | Ford Motor Company | 2000+ Suppliers across Ford | Motorola Mobility | Lenovo | Mashreq | Waste Management | Shawbrook | Ingram Micro
+
+---
 
 ## [Roles & Responsiblities Performed](https://github.com/BipinChandra-Rayilla/Professional-Projects)
 
@@ -34,11 +42,14 @@ Besides Project Management Domain; Data & Business Analysis were my passionate a
 
 ---
 
-### Top Visualizations
-1. [Descriptive Analysis and Statistic](https://github.com/BipinChandra-Rayilla/Descriptive-Analysis-Statistics)
-![](Image.jpg)
+### Data Analysis & Visualizations
+1. Descriptive Analysis and Statistic - [source code](https://github.com/BipinChandra-Rayilla/Descriptive-Analysis-Statistics)
+![](Homeless Population.jpg)
 
-2. 
+2. COVID-19 Vaccination Progress - This visualization focuses on AstraZeneca and further details on how major countries can improvies. [dataset](https://github.com/BipinChandra-Rayilla/Data-Visualization-Covid-19-/edit/main/README.md)
+![](Covid Data.JPG)
+
+3. 
 
 ---
 ### Awards & Certifications
@@ -49,7 +60,8 @@ Besides Project Management Domain; Data & Business Analysis were my passionate a
 4.  State award for designing a low cost Telescope & Planetarium.
 5.  Excellence in carnatic violin & vocal performances.
 
-### Articles & Publications
+# 5W1H - For the the Organizations
+### Articles & Publications (these will help answer the information gathering or problem solving areas)
 
 1. [Analyzing the future of an IT project manager in data analytics](https://medium.com/@bcrayillaofficial/analyzing-the-future-of-an-it-project-manager-in-data-analytics-cba7ec92da34)
 2. [Analytics in e-Commerce (a.k.a. e-Commerce Analytics)](https://medium.com/@bipinchandra_rayilla/analytics-in-e-commerce-a-k-a-e-commerce-analytics-ae28634f7b54)
@@ -71,10 +83,6 @@ Besides Project Management Domain; Data & Business Analysis were my passionate a
 1.	B2B Integration Consultant (Motorola Mobility)
 2.	PMO & ABM Specialist (On site & Offshore)
 3.	Agile PMO, Scrum Master for [Qyrus](https://www.qyrus.com/) (SaaS & AI platform)
-
-### Stakeholders & Interactions
-
-BASF | Coles | Ford Motor Company | 2000+ Suppliers across Ford | Motorola Mobility | Lenovo | Mashreq | WM | Shawbrook | Ingram Micro
 
 ### Education
 
