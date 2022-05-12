@@ -24,7 +24,7 @@ Focused towards leading projects with multiple teams, services, processes and to
 
 ## Stakeholders & Interactions
 
- - Domain experties across Healthcare, Retail, Automobile & Manufacturing, Telecommunication, Banking, SaaS Product Development & B2B Technologies
+ - Domain experties across Healthcare, Retail, Automobile & Manufacturing, Telecommunication, Banking, SaaS Product Development & B2B Technologies.
 
 BASF | Coles | Ford Motor Company | 2000+ Suppliers across Ford | Motorola Mobility | Lenovo | Mashreq | Waste Management | Shawbrook | Ingram Micro
 
