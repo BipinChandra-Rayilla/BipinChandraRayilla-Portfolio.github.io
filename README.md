@@ -5,14 +5,14 @@
 ## About Me
 Focused towards leading projects with multiple teams, services, processes and tools, which are on strict timelines that adhere to brand values. I believe in having a desire to learn from each step and opportunity which can help me acquire knowledge to the real world experiences and leadership. I see a purpose and value in serving, coaching, mentoring and leading teams.
 - B2B EDI Integration, Middleware and Project Management are my professional areas with 7.8 years of IT experience. 
-- Competent in EDI, SAP Sales & Distribution - Intermediate level, an Agile Practitioner, and a Scrum Master & PMO - Qyrus (SaaS & AI platform).
+- Competent in EDI, SAP Sales & Distribution - Intermediate level, an Agile Practitioner, and a Scrum Master & Project Manager - Qyrus (SaaS & AI platform).
 - I have been pursuing Business Administartion & Data Analytics post graduation degrees and based on my earlier experience. I will be levelling up my career towards the title of this page in the upcoming days.
 - Besides professional summary - I am violinst, vocalist, strength & conditioing enthusiast, and idiolize Batman. I love capturing startrails, photography, writing and motorcycle travelling (2500 kms is the longest stretch I have covered so far)
 
 ---
 
 ## Career Timeline
-- Agile PMO (2021)
+- Agile Project Manager (2021)
 - PMO & Scrum Master (2019)
 - Senior EDI Consultant (2018)
 - B2B Application Developer & Module Lead (2016)
