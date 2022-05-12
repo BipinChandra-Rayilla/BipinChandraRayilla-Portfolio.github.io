@@ -40,7 +40,7 @@ Besides Project Management Domain; Data & Business Analysis were my passionate a
 ---
 
 ## Skills
-1. Data Analytics, Digital Data Analytics
+1. Data Analytics, Digital Data Analytics.
 2. Python, Tableau, Power BI, Jupyter (Pandas, Numpy, Matplotlib, Seaborn, Scrapy and BeautifulSoup)
 3. Agile Methodologies, Project Management, Business Strategy
 4. Increased Cross-Functional Teams Productivity, People Leader
